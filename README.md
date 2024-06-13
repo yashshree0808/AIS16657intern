@@ -14,3 +14,6 @@
 3]task2 if elif else:-to test multiple condition at a time if the above condition false then the next one to it is tested.studied examples like to ckeck whether number is positive negative or zero and other ssimilar examples.
 4]task2 for loop:used for accessing the elements in a list tuple and its method.
 5]task2 while loop:use of while loop to print a sequence of number print
+
+#Task3:
+In task3 we studied the break,pass,continue statement also we studies user defined functions like statistical(mean,median,mode,etc.)and logical(odd,even,grades)#break-functionality when break is encounted insided loop,the loop stops its execution and control is transferred to the statement immediately following the loop.use case:it is useful when you want to exist a loop as soon as certain condition is met,avoiden unnecessary iterations.#continue functi
