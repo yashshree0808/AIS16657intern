@@ -105,6 +105,9 @@ decision tree is the best model on the basis of prcision , accuracy and recall, 
 #Dashboard-
 In this task we created a dashoard on project data i.e Airlines Delay classification in power bi dashboard.We download the airlines delay classification data from kaggle. In power bi we get the data from csv file then by using graphs ,sclicers,card and other features we create a dashoard in power bi.
 
+9. project  :-In the project we studied about the machine learning.first we done preprocessing on the data,in this project we use Histerical data from Airline Delay to predict wether arrival of the flight will be delay or it will be on time.we approach this problem  as a classification problem.Airline data set have 539484 n-observation and eight different features .
+ Exploratory data Analysis : in exploratory data analysis we check the missing values but in data set there is no missing values after that we drop the unnessesary model which is "id".Then we shuffled the data into 150000 n-observations,then choose dependant and dependant variables.split the data into 80:20 ratio then fitting the model using 10 algorithm, and fit the model .to check the best parameter we use grid CV search and using best parameter fit the model.after we use feature importance code to identiify best features in the model .we got three best parameter which explain more praportion in the model which is (Airline,Length,Time).fit the  model using best features then check the accuracy of the model and observed that there is not change in accuracy we  conclude that is  Airline ,length and Time gives more imformation about the Airline delay.
+CONCLUSION : From this project we conclude that Random forest Algotrithm gives more accuracy.
 
 
 
